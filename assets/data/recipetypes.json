@@ -1,0 +1,7 @@
+[
+  {"id": 1, "name": "Breakfast"},
+  {"id": 2, "name": "Main Course"},
+  {"id": 3, "name": "Salad"},
+  {"id": 4, "name": "Soup"},
+  {"id": 5, "name": "Dessert"}
+]
